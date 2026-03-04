@@ -46,12 +46,13 @@ export default function Problema() {
             Por que isso acontece
           </p>
           <h2 className="text-4xl md:text-5xl font-bold leading-tight mb-5">
-            Marketing médico sem critério{" "}
-            <span className="text-gradient">é dinheiro no ralo.</span>
+            Virou rotina ouvir médico{" "}
+            <span className="text-gradient">dizendo que foi enganado.</span>
           </h2>
           <p className="text-white/45 text-lg max-w-2xl mx-auto leading-relaxed">
-            Você não foi ensinado a escolher uma agência, avaliar resultado ou
-            entender tráfego. Ninguém te ensinou. Esse livro existe por causa disso.
+            Trabalhando com médicos de todas as especialidades, ficou comum escutar:
+            "a agência não entregou", "paguei e não vi resultado", "não sei nem
+            o que cobrar". Esse manual existe por causa disso.
           </p>
         </motion.div>
 

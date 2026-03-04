@@ -68,9 +68,9 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.05] mb-6"
           >
-            Você está{" "}
-            <span className="text-gradient">perdendo dinheiro</span>{" "}
-            com marketing médico?
+            Pacientes qualificados{" "}
+            <span className="text-gradient">sem dancinhas</span>{" "}
+            e sem ser enrolado.
           </motion.h1>
 
           <motion.p
@@ -79,8 +79,9 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.45 }}
             className="text-lg md:text-xl text-white/50 max-w-xl leading-relaxed mb-10"
           >
-            11 situações que todo médico precisa conhecer para não ser enrolado
-            — e finalmente ter resultado com marketing.
+            O manual que todo médico deveria ler antes de contratar qualquer
+            agência — 11 situações reais para você ter resultado e não perder
+            dinheiro com marketing.
           </motion.p>
 
           {/* CTA */}

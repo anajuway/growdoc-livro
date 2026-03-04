@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Problema from "./components/Problema";
+import Transformacao from "./components/Transformacao";
 import Capitulos from "./components/Capitulos";
 import Credibilidade from "./components/Credibilidade";
 import Depoimentos from "./components/Depoimentos";
@@ -12,6 +13,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Problema />
+      <Transformacao />
       <Capitulos />
       <Credibilidade />
       <Depoimentos />

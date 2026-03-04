@@ -49,12 +49,13 @@ export default function CTA() {
           </motion.div>
 
           <h2 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Pare de ser{" "}
-            <span className="text-gradient">enrolado.</span>
+            Tudo a ganhar,{" "}
+            <span className="text-gradient">nada a perder.</span>
           </h2>
 
           <p className="text-white/40 text-lg md:text-xl mb-12 leading-relaxed">
-            11 situações. Aplicáveis agora. Escritas por quem vive o marketing médico.
+            Um manual escrito por quem já gerou mais de R$2 milhões em resultados
+            para médicos. Aplicável agora, independente da sua especialidade.
             <br />
             Não deixe para depois.
           </p>
