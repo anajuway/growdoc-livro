@@ -70,7 +70,7 @@ export default function Hero() {
           >
             Pacientes qualificados{" "}
             <span className="text-gradient">sem dancinhas</span>{" "}
-            e sem ser enrolado.
+            e sem precisar ser blogueiro.
           </motion.h1>
 
           <motion.p
